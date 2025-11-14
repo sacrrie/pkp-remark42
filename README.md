@@ -6,3 +6,5 @@ Follows the general process of install local plugin. Git clone the repo, tar-bal
 
 ## Version compatibility issue
 The initial commit is suitable for 3.3 LTS, and I am upgrading to 3.5, if you are using legacy 3.3 LTS, just check-out earlier commit.
+###Updates
+Nah this project is archived, I am moving towards using Artalk as the commenting system, check my other repo for OPS 3.5 and onwards
